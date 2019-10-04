@@ -104,8 +104,8 @@ venv.bak/
 .mypy_cache/
 
 # ignore large csv and pickles
-.csv
-.pickle
+*.csv
+*.pickle
 full_list_final.csv
 full_list_final.pickle
 anime_data.csv
