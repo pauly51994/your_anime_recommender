@@ -105,7 +105,7 @@ We were able to finish our Recommendation System that provides the best Anime Sh
 
 Let’s Take A Look At our Final Product
 
-## Recommender System Finish Product
+## Recommender System Final Product
 ![](images/ezgif.com-video-to-gif.gif)
 
 Thank You!
