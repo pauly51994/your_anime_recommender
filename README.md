@@ -41,14 +41,14 @@
 # Exploratory Data Analysis
  Question 1:
 
-  Through the **rating system** what is the **average** ratings given to animes by users?
+  Through the **rating system** what is the **average** ratings evenly distributed?
 
 **Observation:**
 
 Our graph illustrates the behavior of all users ratings
 We were able to see the average rating Anime shows received which was eight
 
-![](images/freq_rating.png)
+![](images/distribute_ratin.png)
 
 ------
 Question 2:
@@ -57,9 +57,9 @@ What types of Anime do users watch most?
 
 **Observation**:
 
-Our graph concludes that anime TV shows were the most-watched type of anime.
+- Our graph concludes that anime TV shows were the most-watched type of anime.
 TV shows are the most common form of anime.
-![](images/anime_type1.png)
+![](images/pie_types.png)
 
 ----
 Question 3:
@@ -68,19 +68,18 @@ Which animes were most popular?
 
 **Observations:** 
 
-Our graph shows that **Death Note** was the most **watched** and **rated Anime** in our dataset.
+- We were impressed to see Gintama was rated the best Anime Show several times with different seasons.
 
-![](images/top20_most_rated.png)
+
+![](images/top_anime_r.png)
 
 ----
 Question 4:
-Which animes were best rated?
+- What were user activities with ratings?
 
 **Observation:**
 
-We were impressed to see Gintama was rated the best Anime Show several times with different seasons.
-
-![](images/top20_best.png)
+![](images/user_activity.png)
 
 # Recommendation Models
 
@@ -99,10 +98,11 @@ The Model is Prepped with:
 RMSE : 1.369
 
 # Conclusion
-Grid Search SVD worked best providing the lowest RMSE
+- Grid Search SVD worked best providing the lowest RMSE
 
-We were able to finish our Recommendation System that provides the best Anime Show according to Users Rating and Users genres preference.
+- We were able to finish our Recommendation System that provides the best Anime Show according to Users Rating and Users genres preference.
 
+-----
 Let’s Take A Look At our Final Product
 
 ## Recommender System Final Product
