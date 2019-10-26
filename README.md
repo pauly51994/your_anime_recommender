@@ -45,8 +45,7 @@
 
 **Observation:**
 
-Our graph illustrates the behavior of all users ratings
-We were able to see the average rating Anime shows received which was eight
+Our graph illustrates the behavior of all users ratings. We were able to see the average rating of Anime shows received was eight.
 
 ![](images/distribute_ratin.png)
 
